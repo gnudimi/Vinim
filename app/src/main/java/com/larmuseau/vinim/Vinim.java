@@ -297,7 +297,7 @@ public class Vinim extends Activity implements SensorEventListener {
         float z = values[2];
 
 
-        /*   ------------
+        /*   -------
 
         TextView xAxis = (TextView)findViewById(R.id.textViewXaxis);
         TextView yAxis = (TextView)findViewById(R.id.textViewYaxis);
