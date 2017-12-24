@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Vinim</string>
+    <string name="set_video_smiley">Smiley</string>
+    <string name="set_video_gutter">Goot</string>
+    <string name="set_video_mandarinnekes">Orange</string>
+    <string name="set_video_loop">Bus</string>
+    <string name="textview">TextView</string>
+    <string name="textviewYaxis">TextView</string>
+    <string name="textviewZaxis">TextView</string>
+    <string name="textviewFrequency">TextView</string>
+    <string name="textviewlight">TextViewLight</string>
+    <string name="textviewNote1">TextViewNote1</string>
+    <string name="textviewNote2">TextViewNote2</string>
+    <string name="textviewNote3">TextViewNote3</string>
+    <string name="textviewNote4">TextViewNote4</string>
+</resources>
